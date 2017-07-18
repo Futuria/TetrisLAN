@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=host\ port
+comment0.target=Client(java.lang.String,\ int)
+comment1.params=i\ grid
+comment1.target=void\ sendGrid(int,\ java.util.ArrayList)
+comment2.params=s
+comment2.target=void\ sendServer(Server)
+comment3.params=i\ p
+comment3.target=void\ sendPiece(int,\ Piece)
+comment4.params=i\ s
+comment4.target=void\ sendScore(int,\ int)
+comment5.params=num
+comment5.target=void\ begin(int)
+comment6.params=i
+comment6.target=void\ sendNum(int)
+numComments=7

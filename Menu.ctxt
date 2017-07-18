@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ Creates\ a\ menu\ page\ with\ 4\ buttons\ to\ choose\ the\ gamemodes\ with.\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Checks\ if\ any\ of\ the\ buttons\ are\ clicked\ and\ create\ a\ new\ World\ corresponding\ to\ the\ button\ clicked.\ \r\n
+numComments=2

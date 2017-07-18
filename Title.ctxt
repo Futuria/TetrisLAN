@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Title()
+comment0.text=\r\n\ Creates\ the\ starting\ world\ with\ a\ start\ button.\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Checks\ if\ the\ start\ button\ is\ clicked.\ \r\n
+numComments=2

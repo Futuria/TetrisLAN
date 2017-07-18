@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=w\ port
+comment0.target=Server(TetrisMain,\ int)
+comment1.params=w
+comment1.target=void\ changeTarget(TetrisMain)
+comment2.params=w
+comment2.target=Server(TetrisMain)
+comment3.params=
+comment3.target=int\ getPort()
+comment4.params=
+comment4.target=java.lang.String\ getIP()
+comment5.params=
+comment5.target=void\ run()
+numComments=6

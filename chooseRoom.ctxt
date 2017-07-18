@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=thingy
+comment0.target=chooseRoom(boolean)
+comment0.text=\r\n\ Creates\ a\ world\ with\ the\ option\ of\ hosting\ a\ room\ or\ joining\ a\ room\ represented\ by\ 2\ buttons.\ \r\n\ \r\n\ @Param\ thingy\ \ \ \ Determines\ if\ the\ game\ being\ created/joined\ is\ Tetrix\ or\ Pentrix.\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Checks\ which\ button\ is\ clicked\ and\ which\ World\ to\ generate\ next.\ \r\n
+numComments=2
